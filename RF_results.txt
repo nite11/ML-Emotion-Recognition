@@ -1,0 +1,9 @@
+
+
+
+
+random_state: , 33
+Best parameters found: , OrderedDict([('max_features', 0.49804058303544063), ('n_estimators', 146)])
+Best cross-validation accuracy: , 0.592391304347826
+Mean Accuracy: 0.61
+
